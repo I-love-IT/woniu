@@ -1,0 +1,8 @@
+<!--pages/counter/counter.wxml-->
+<text>pages/counter/counter.wxml</text>
+
+计算的结果：<text>0</text>
+<button>加一</button>
+<button>减一</button>
+
+

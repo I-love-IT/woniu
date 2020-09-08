@@ -2,8 +2,8 @@
   "pages": [
     "pages/first/first",
     "pages/index/index",
-    "pages/logs/logs"
-    
+    "pages/logs/logs",
+    "pages/counter/counter"
   ],
   "window": {
     "backgroundTextStyle": "light",

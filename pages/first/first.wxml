@@ -29,4 +29,7 @@
 
 
   <button>登录</button>
+
+  <navigator url="../index/index">跳转到index</navigator>
+
 </view>
