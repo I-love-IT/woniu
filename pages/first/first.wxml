@@ -1,0 +1,32 @@
+<!--pages/first.wxml-->
+<view class="lunbo">
+  <swiper indicator-dots="true" autoplay="true">
+    <swiper-item>
+      <image src="https://woniucnopenfile.oss-cn-beijing.aliyuncs.com/snail/static/images_upload/b44480bb1ee9332ef63d7b7f97107be8.jpg"></image>
+    </swiper-item>
+    <swiper-item>
+      <image src="https://woniucnopenfile.oss-cn-beijing.aliyuncs.com/snail/static/images_upload/067075e46275a6ce00e144eb4a4b1f33.jpg"></image>
+    </swiper-item>
+    <swiper-item>
+      <image src="https://woniucnopenfile.oss-cn-beijing.aliyuncs.com/snail/static/images_upload/f79044b44c551e4b6fc7adc1cc7a5211.jpg"></image>
+    </swiper-item>
+  </swiper>
+
+</view>
+
+
+
+<view class="login">
+  <view class="bb">
+    <text>用户名：</text>
+    <input type="text" placeholder="请输入用户名"></input>
+  </view>
+  <view class="bb">
+    <text space="emsp">密 码：</text>
+    <!-- <text decode="false">密&nbsp;&nbsp;&nbsp;码：</text> -->
+    <input type="password" placeholder="请输入密码"></input>
+  </view>
+
+
+  <button>登录</button>
+</view>
